@@ -1,6 +1,6 @@
 var friendsArray = [{
     "name" : "Abigail",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/3e4/amy-lee-1433980.jpg",
     "score" : [
         1,
         2,
@@ -16,7 +16,7 @@ var friendsArray = [{
 },
 {
     "name" : "Mary",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/7cd/girl-1563710.jpg",
     "score" : [
         1,
         4,
@@ -32,7 +32,7 @@ var friendsArray = [{
 },
 {
     "name" : "Susan",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/05c/elegant-2-1310010.jpg",
     "score" : [
         5,
         3,
@@ -48,7 +48,7 @@ var friendsArray = [{
 },
 {
     "name" : "William",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/b16/will-1536745.jpg",
     "score" : [
         4,
         5,
@@ -64,7 +64,7 @@ var friendsArray = [{
 },
 {
     "name" : "Henry",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/754/macrocosm-1436866.jpg",
     "score" : [
         4,
         5,
@@ -80,7 +80,7 @@ var friendsArray = [{
 },
 {
     "name" : "Charles",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/0a7/exasperation-1435612.jpg",
     "score" : [
         2,
         3,
@@ -96,7 +96,7 @@ var friendsArray = [{
 },
 {
     "name" : "Elizabeth",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/1e0/manken-model-turkish-women-1438588.jpg",
     "score" : [
         1,
         3,
@@ -112,7 +112,7 @@ var friendsArray = [{
 },
 {
     "name" : "Gabriel",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/d4f/smile-1433609.jpg",
     "score" : [
         1,
         5,
@@ -128,7 +128,7 @@ var friendsArray = [{
 },
 {
     "name" : "Thomas",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/8e3/face-of-peter-1433842.jpg",
     "score" : [
         2,
         2,
@@ -144,7 +144,7 @@ var friendsArray = [{
 },
 {
     "name" : "Dorothy",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/f6d/young-woman-5-1434130.jpg",
     "score" : [
         5,
         5,
@@ -160,7 +160,7 @@ var friendsArray = [{
 },
 {
     "name" : "Patrick",
-    "photo" : "",
+    "photo" : "https://images.freeimages.com/images/large-previews/b29/normal-guy-1438830.jpg",
     "score" : [
         1,
         2,
