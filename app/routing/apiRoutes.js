@@ -1,5 +1,5 @@
 //required data files/packages
-var friends = require("../app/data/friends.js");
+var friends = require("../data/friends");
 
 //exports this module to the server, close at the bottom of the file. 
 module.exports = function(app) {

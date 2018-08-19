@@ -15,11 +15,14 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json());
 
 //including the data from apiRoutes and the HTML from htmlRoutes
-require("./routing/apiRoutes.js")(app);
-require("./routing/htmlRoutes.js")(app);
+require("./app/routing/apiRoutes")(app);
+require("./app/routing/htmlRoutes")(app);
 
 
 //server listening for connection
-app.listen(PORT, function () {
+app.listen(PORT, function (err) {
+    if (err) {
+        console.log("didnt work");
+    }
   console.log("App listening on PORT " + PORT);
 });
